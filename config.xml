@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.gmail.jesicasalazar17"
+        versionCode = "10" 
+        version     = "1.0.0" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Everock</name>
+
+    <description>
+        Esta una aplicación para facilitar la programación y compra de eventos en los mejores bares rock de Bogotá
+    </description>
+
+    <author href="https://build.phonegap.com" email="support@phonegap.com">
+       Camila Santana, Jessica Salazar 
+    </author>
+<icon src="icon.png" />
+    <gap:splash src="splash.png" />
+</widget>
